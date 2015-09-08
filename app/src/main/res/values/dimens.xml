@@ -1,0 +1,50 @@
+<resources>
+
+    <dimen name="action_bar_height">56.5dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="mainactivity_openday_listview_divider_height">1dp</dimen>
+    
+    <!-- Main View -->
+    <dimen name="mainactivity_no_record_text_size">20dp</dimen>
+    <dimen name="mainactivity_no_record_tutorial_text_size">14dp</dimen>
+
+    <dimen name="openday_view_height">70dp</dimen>
+	<dimen name="openday_view_date_size">20dp</dimen>
+	<dimen name="openday_view_number_size">35dp</dimen>
+	<dimen name="openday_view_time_size">25dp</dimen>
+	<dimen name="openday_view_hit_text_size">35dp</dimen>
+	
+	<dimen name="openday_view_date_margin_left">5dp</dimen>
+	<dimen name="openday_view_date_margin_top">5dp</dimen>
+	<dimen name="openday_view_hit_text_margin_left">10dp</dimen>
+	<dimen name="openday_view_number_view_margin_top">60dp</dimen>
+	<dimen name="openday_view_alltime_margin_top">5dp</dimen>
+	<dimen name="openday_view_alltime_margin_right">5dp</dimen>
+	<dimen name="openday_view_progressbar_margin_bottom">20dp</dimen>
+	<dimen name="openday_view_history_text_size">25dp</dimen>
+	<dimen name="openday_view_history_number_view_padding_bottom">15dp</dimen>
+	<dimen name="openday_view_history_all_time_margin_top">15dp</dimen>
+	<!-- Detail View -->
+	<dimen name="detail_interval_view_margin_left">5dp</dimen>
+	<dimen name="detail_interval_view_margin_right">5dp</dimen>
+
+    <!-- Goal View -->
+    <dimen name="goalactivity_text1">30dp</dimen>
+    <dimen name="goalactivity_text2">15dp</dimen>
+    <dimen name="goalactivity_limit_hits_text">50dp</dimen>
+    <dimen name="goalactivity_limit_progressbar_margin_left">5dp</dimen>
+    <dimen name="goalactivity_limit_progressbar_margin_right">5dp</dimen>
+    <dimen name="goalactivity_button_padding_left_right">45dp</dimen>
+    <dimen name="goalactivity_button_padding_top_bottom">10dp</dimen>
+    <dimen name="goalactivity_button_text_size">20dp</dimen>
+
+    <!-- Setting View -->
+    <dimen name="settingactivity_hits_notification_title_size">20dp</dimen>
+    <dimen name="settingactivity_hits_notification_detail_size">14dp</dimen>
+    <dimen name="settingactivity_hits_notification_switch_margin_right">15dp</dimen>
+    <dimen name="settingactivity_hits_notification_switch_margin_top">5dp</dimen>
+    <dimen name="settingactivity_separator_margin_top">13dp</dimen>
+    <dimen name="settingactivity_separator_margin_horizontal">5dp</dimen>
+</resources>

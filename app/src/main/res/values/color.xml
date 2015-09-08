@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="mainactivity_dailyopen_list_divider_color">#DCDCDC</color>
+	<color name="action_bar_color">#FF7300</color>
+	<color name="progress_bar_color">#FF4040</color>
+	<color name="progress_bar_bg_color">#FFFFEE</color>
+	
+	<color name="openday_view_bg_color">#FFFFFF</color>
+	<color name="openday_view_number_text_color">#363636</color>
+	<color name="openday_view_hit_text_color">#363636</color>
+	<color name="openday_view_date_text_color">#696969</color>
+	<color name="openday_view_alltime_text_color">#4F4F4F</color>
+	
+	<color name="openday_view_history_text_color">#4F4F4F</color>
+<!--  	
+	<color name="openday_view_bg_color_level1">#cceeee</color>
+	<color name="openday_view_bg_color_level2">#cceed4</color>
+	<color name="openday_view_bg_color_level3">#eeeecc</color>
+	<color name="openday_view_bg_color_level4">#eecccc</color>
+	<color name="openday_view_bg_color_level5">#eeccd4</color>
+	<color name="openday_view_bg_color_level6">#eecce5</color>
+	<color name="openday_view_bg_color_level7">#d4ccee</color>
+-->	
+	<color name="openday_view_bg_color_level1">#EFF796</color>
+	<color name="openday_view_bg_color_level2">#FBCCCC</color>
+	<color name="openday_view_bg_color_level3">#FAA7A7</color>
+	<color name="openday_view_bg_color_level4">#FF7C7C</color>
+	<color name="openday_view_bg_color_level5">#FB5555</color>
+	<color name="openday_view_bg_color_level6">#FA3333</color>
+	<color name="openday_view_bg_color_level7">#FF0000</color>
+
+    <color name="goalactivity_confirm_button">#FF7300</color>
+    <color name="goalactivity_confirm_button_text">#FFFFFF</color>
+
+    <color name="settings_separator_color">#4F4F4F</color>
+</resources>

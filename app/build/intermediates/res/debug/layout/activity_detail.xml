@@ -1,0 +1,36 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.popo.dailyopen.com.popo.dailyopen.activity.DetailActivity" >
+
+	<RelativeLayout 
+	    android:id="@+id/view_interval_detail"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentLeft="true"
+	    android:layout_marginLeft="@dimen/detail_interval_view_margin_left"
+	    android:layout_marginRight="@dimen/detail_interval_view_margin_right">
+	    
+	    <TextView 
+	        android:id="@+id/textview_interval_time_mean_title"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentLeft="true"
+	        android:textStyle="bold">
+	    </TextView>
+   	    <TextView 
+	        android:id="@+id/textview_interval_time_mean_value"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentLeft="true"
+	        android:textStyle="bold">
+	    </TextView>	
+	    
+	</RelativeLayout>
+
+    
+    
+
+</RelativeLayout>
+<!-- From: file:/Users/Mike/AndroidstudioProjects/DailyOpen/app/src/main/res/layout/activity_detail.xml -->

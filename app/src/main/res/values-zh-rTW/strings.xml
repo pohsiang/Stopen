@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_activity_main">Stopen</string>
+    <string name="title_activity_detail">內容分析</string>
+    <string name="title_activity_goal">設定目標</string>
+    <string name="title_activity_settings">設定</string>
+
+    <string name="app_name">Stopen</string>
+    <string name="goalactivity_set_goal">設定您的目標</string>
+    <string name="goalactivity_how_many_hits_you_want_to_hit_per_day">想要每天打開手機幾次?</string>
+    <string name="goalactivity_confirm_button_text">確認目標</string>
+
+    <string name="action_set_goal">重新設定目標</string>
+
+    <string name="today_string">今天</string>
+    <string name="hit_string">次</string>
+    <string name="hits_string">次</string>
+    <string name="no_record_string">目前沒有資料</string>
+    <string name="tutorial_for_not_record">Stopen記錄您使用手機的次數。請關掉螢幕並再次打開螢幕，獲得第一筆記錄。</string>
+
+    <string name="hr_string">小時</string>
+    <string name="min_string">分</string>
+    <string name="sec_string">秒</string>
+
+    <string name="setting_string">設定</string>
+    <string name="notification_hit_counting_title_string">使用次數提醒</string>
+    <string name="notification_hit_counting_detail_string">每次打開螢幕時，提醒您使用次數。</string>
+
+
+
+</resources>

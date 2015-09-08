@@ -1,0 +1,21 @@
+<layer-list xmlns:android="http://schemax.android.com/apk/res/android">
+    
+    <item android:id="@android:id/background">
+        <shape
+            android:innerRadiusRatio="3"
+            android:shap="ring"
+            android:useLevel="false"
+            android:thciknessRatio="7.0" >
+            <solid android:color="#990012"/>
+        </shape>
+    </item>
+    <item android:id="@android:id/progress">
+        <shape
+            android:innerRadiusRatio="3"
+            android:shape="ring"
+            android:thicknessRatio="7.0">
+            <solid android:color="#FBB917"/>
+        </shape>
+    </item>
+    
+</layer-list><!-- From: file:/Users/Mike/AndroidstudioProjects/DailyOpen/app/src/main/res/drawable/test_progressbar.xml -->

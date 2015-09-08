@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.popo.dailyopen.activity.MainActivity" >
+
+    <item
+        android:id="@+id/menu_action_set_goal"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_set_goal"/>
+
+    <item
+        android:id="@+id/menu_settings"
+        android:orderInCategory="90"
+        android:showAsAction="never"
+        android:title="@string/setting_string"/>
+
+</menu>

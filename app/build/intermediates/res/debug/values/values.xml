@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/Mike/AndroidstudioProjects/DailyOpen/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="action_bar_color">#FF7300</color>
+    <!-- From: file:/Users/Mike/AndroidstudioProjects/DailyOpen/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="black_overlay">#66000000</color>
+    <!-- From: file:/Users/Mike/AndroidstudioProjects/DailyOpen/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/res/values/common_colors.xml -->
+    <eat-comment/>
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_signin_btn_dark_text_default">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_dark_text_focused">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_pressed">@android:color/white</color>
+    <color name="common_signin_btn_default_background">#FFDD4B39</color>
+    <color name="common_signin_btn_light_text_default">#FF737373</color>
+    <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_light_text_focused">#FF737373</color>
+    <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
+    <!-- From: file:/Users/Mike/AndroidstudioProjects/DailyOpen/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="goalactivity_confirm_button">#FF7300</color>
+    <color name="goalactivity_confirm_button_text">#FFFFFF</color>
+    <color name="mainactivity_dailyopen_list_divider_color">#DCDCDC</color>
+    <color name="openday_view_alltime_text_color">#4F4F4F</color>
+    <color name="openday_view_bg_color">#FFFFFF</color>
+    <color name="openday_view_bg_color_level1">#EFF796</color>
+    <color name="openday_view_bg_color_level2">#FBCCCC</color>
+    <color name="openday_view_bg_color_level3">#FAA7A7</color>
+    <color name="openday_view_bg_color_level4">#FF7C7C</color>
+    <color name="openday_view_bg_color_level5">#FB5555</color>
+    <color name="openday_view_bg_color_level6">#FA3333</color>
+    <color name="openday_view_bg_color_level7">#FF0000</color>
+    <color name="openday_view_date_text_color">#696969</color>
+    <color name="openday_view_history_text_color">#4F4F4F</color>
+    <color name="openday_view_hit_text_color">#363636</color>
+    <color name="openday_view_number_text_color">#363636</color>
+    <color name="progress_bar_bg_color">#FFFFEE</color>
+    <color name="progress_bar_color">#FF4040</color>
+    <color name="settings_separator_color">#4F4F4F</color>
+    <declare-styleable name="ButtonBarContainerTheme"><attr format="reference" name="metaButtonBarStyle"/><attr format="reference" name="metaButtonBarButtonStyle"/></declare-styleable>
+    <declare-styleable name="LoadingImageView"><attr format="enum" name="imageAspectRatioAdjust"><enum name="none" value="0"/><enum name="adjust_width" value="1"/><enum name="adjust_height" value="2"/></attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable>
+    <!-- From: file:/Users/Mike/AndroidstudioProjects/DailyOpen/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="action_bar_height">56.5dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="detail_interval_view_margin_left">5dp</dimen>
+    <dimen name="detail_interval_view_margin_right">5dp</dimen>
+    <dimen name="goalactivity_button_padding_left_right">45dp</dimen>
+    <dimen name="goalactivity_button_padding_top_bottom">10dp</dimen>
+    <dimen name="goalactivity_button_text_size">20dp</dimen>
+    <dimen name="goalactivity_limit_hits_text">50dp</dimen>
+    <dimen name="goalactivity_limit_progressbar_margin_left">5dp</dimen>
+    <dimen name="goalactivity_limit_progressbar_margin_right">5dp</dimen>
+    <dimen name="goalactivity_text1">30dp</dimen>
+    <dimen name="goalactivity_text2">15dp</dimen>
+    <dimen name="mainactivity_no_record_text_size">20dp</dimen>
+    <dimen name="mainactivity_no_record_tutorial_text_size">14dp</dimen>
+    <dimen name="mainactivity_openday_listview_divider_height">1dp</dimen>
+    <dimen name="openday_view_alltime_margin_right">5dp</dimen>
+    <dimen name="openday_view_alltime_margin_top">5dp</dimen>
+    <dimen name="openday_view_date_margin_left">5dp</dimen>
+    <dimen name="openday_view_date_margin_top">5dp</dimen>
+    <dimen name="openday_view_date_size">20dp</dimen>
+    <dimen name="openday_view_height">70dp</dimen>
+    <dimen name="openday_view_history_all_time_margin_top">15dp</dimen>
+    <dimen name="openday_view_history_number_view_padding_bottom">15dp</dimen>
+    <dimen name="openday_view_history_text_size">25dp</dimen>
+    <dimen name="openday_view_hit_text_margin_left">10dp</dimen>
+    <dimen name="openday_view_hit_text_size">35dp</dimen>
+    <dimen name="openday_view_number_size">35dp</dimen>
+    <dimen name="openday_view_number_view_margin_top">60dp</dimen>
+    <dimen name="openday_view_progressbar_margin_bottom">20dp</dimen>
+    <dimen name="openday_view_time_size">25dp</dimen>
+    <dimen name="settingactivity_hits_notification_detail_size">14dp</dimen>
+    <dimen name="settingactivity_hits_notification_switch_margin_right">15dp</dimen>
+    <dimen name="settingactivity_hits_notification_switch_margin_top">5dp</dimen>
+    <dimen name="settingactivity_hits_notification_title_size">20dp</dimen>
+    <dimen name="settingactivity_separator_margin_horizontal">5dp</dimen>
+    <dimen name="settingactivity_separator_margin_top">13dp</dimen>
+    <!-- From: file:/Users/Mike/AndroidstudioProjects/DailyOpen/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/res/values/version.xml -->
+    <eat-comment/>
+    <integer name="google_play_services_version">6587000</integer>
+    <!-- From: file:/Users/Mike/AndroidstudioProjects/DailyOpen/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_set_goal">Reset Goal</string>
+    <string name="app_name">Stopen</string>
+    <!-- From: file:/Users/Mike/AndroidstudioProjects/DailyOpen/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/res/values/common_strings.xml -->
+    <eat-comment/>
+    <string name="common_android_wear_notification_needs_update_text">An application requires an update to the Android Wear app.</string>
+    <string name="common_android_wear_update_text">This app won\'t run unless you update the Android Wear app.</string>
+    <string msgid="6006316683626838685" name="common_android_wear_update_title">Update Android Wear</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">This app won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by <ns1:g id="app_name">%1$s</ns1:g></string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
+    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone">This app won\'t run without Google Play services, which are missing from your phone.</string>
+    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet">This app won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_needs_installation_title">An application requires installation of Google Play services.</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_text">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">This app won\'t run unless you update Google Play services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <!-- From: file:/Users/Mike/AndroidstudioProjects/DailyOpen/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="goalactivity_confirm_button_text">Confirm</string>
+    <string name="goalactivity_how_many_hits_you_want_to_hit_per_day">How many hits you want to hit per day?</string>
+    <string name="goalactivity_set_goal">Set Your Goal</string>
+    <string name="hit_string">hit</string>
+    <string name="hits_string">hits</string>
+    <string name="hr_string">hr</string>
+    <string name="min_string">min</string>
+    <string name="no_record_string">No Record</string>
+    <string name="notification_hit_counting_detail_string">Get hits notification when you open your screen.</string>
+    <string name="notification_hit_counting_title_string">Hits Notification</string>
+    <string name="sec_string">sec</string>
+    <string name="setting_string">Settings</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_goal">Set Your GOAL!!!</string>
+    <string name="title_activity_main">Stopen</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="today_string">Today</string>
+    <string name="tutorial_for_not_record">This app helps you to record your daily mobile usage. Please screen OFF and screen ON.</string>
+    <!-- From: file:/Users/Mike/AndroidstudioProjects/DailyOpen/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:actionBarStyle">@style/MainActivityActionBarStyle</item>
+    </style>
+    <style name="ButtonBar">
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:background">@android:drawable/bottom_bar</item>
+    </style>
+    <style name="ButtonBarButton"/>
+    <style name="MainActivityActionBarStyle" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:height">@dimen/action_bar_height</item>
+        <item name="android:background">@color/action_bar_color</item>
+    </style>
+    <style name="MainActivityTheme" parent="AppTheme">
+        <item name="android:actionBarStyle">@style/MainActivityActionBarStyle</item>
+    </style>
+</resources>

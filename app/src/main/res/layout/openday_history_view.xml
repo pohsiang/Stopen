@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/opendayview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/openday_view_bg_color" >
+
+    <TextView
+        android:id="@+id/opendayview_date_text"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="@dimen/openday_view_date_margin_left"
+        android:layout_marginTop="@dimen/openday_view_date_margin_top"
+        android:textColor="@color/openday_view_date_text_color"
+        android:textSize="@dimen/openday_view_date_size" />
+
+    <TextView
+        android:id="@+id/opendayview_alltime_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/openday_view_history_all_time_margin_top"
+        android:gravity="center"
+        android:textColor="@color/openday_view_history_text_color"
+        android:textSize="@dimen/openday_view_history_text_size"
+        android:textStyle="bold" />
+
+    <RelativeLayout
+        android:id="@+id/opendayview_number_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/opendayview_alltime_text"
+        android:paddingBottom="@dimen/openday_view_history_number_view_padding_bottom"
+        android:layout_centerHorizontal="true" >
+
+        <TextView
+            android:id="@+id/opendayview_number_text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textColor="@color/openday_view_history_text_color"
+            android:textSize="@dimen/openday_view_history_text_size"
+            android:textStyle="italic|bold" />
+
+        <TextView
+            android:id="@+id/opendayview_number_hit_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/openday_view_hit_text_margin_left"
+            android:layout_toRightOf="@id/opendayview_number_text"
+            android:text="@string/hits_string"
+            android:textStyle="bold"
+            android:textColor="@color/openday_view_history_text_color"
+            android:textSize="@dimen/openday_view_history_text_size" />
+    </RelativeLayout>
+
+
+</RelativeLayout>

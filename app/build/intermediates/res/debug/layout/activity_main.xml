@@ -1,0 +1,46 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.popo.dailyopen.activity.MainActivity" >
+    
+    <ListView 
+        android:id="@+id/mainactivity_openday_listview"    
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:dividerHeight="@dimen/mainactivity_openday_listview_divider_height"
+        android:divider="@color/mainactivity_dailyopen_list_divider_color"
+        />
+    <RelativeLayout
+        android:id="@+id/mainactivity_no_record_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="50dp"
+        android:layout_centerInParent="true"
+        android:visibility="visible" >
+
+        <TextView
+            android:id="@+id/mainactivity_no_record_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/mainactivity_no_record_text_size"
+            android:layout_centerHorizontal="true"
+            android:text="@string/no_record_string"/>
+
+        <TextView
+            android:id="@+id/mainactivity_no_record_tutorial"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/mainactivity_no_record_tutorial_text_size"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:layout_below="@id/mainactivity_no_record_textview"
+            android:text="@string/tutorial_for_not_record"/>
+
+    </RelativeLayout>
+        
+
+</RelativeLayout>
+<!-- From: file:/Users/Mike/AndroidstudioProjects/DailyOpen/app/src/main/res/layout/activity_main.xml -->

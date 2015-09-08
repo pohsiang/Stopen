@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_activity_main">Stopen</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_goal">Set Your GOAL!!!</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="app_name">Stopen</string>
+    <string name="goalactivity_set_goal">Set Your Goal</string>
+    <string name="goalactivity_how_many_hits_you_want_to_hit_per_day">How many hits you want to hit per day?</string>
+    <string name="goalactivity_confirm_button_text">Confirm</string>
+
+    <string name="action_set_goal">Reset Goal</string>
+
+    <string name="today_string">Today</string>
+    <string name="hit_string">hit</string>
+    <string name="hits_string">hits</string>
+    <string name="no_record_string">No Record</string>
+    <string name="tutorial_for_not_record">This app helps you to record your daily mobile usage. Please screen OFF and screen ON.</string>
+
+    <string name="hr_string">hr</string>
+    <string name="min_string">min</string>
+    <string name="sec_string">sec</string>
+    <string name="setting_string">Settings</string>
+
+    <string name="notification_hit_counting_title_string">Hits Notification</string>
+    <string name="notification_hit_counting_detail_string">Get hits notification when you open your screen.</string>
+
+</resources>

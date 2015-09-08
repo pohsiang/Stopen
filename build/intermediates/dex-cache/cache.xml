@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Mike/AndroidstudioProjects/DailyOpen/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Mike/AndroidstudioProjects/DailyOpen/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-d2c5060922170bf65538452107bc6b012d39e5e1.jar" />
+    </item>
+    <item
+        jar="/Applications/eclipse/android-sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Mike/AndroidstudioProjects/DailyOpen/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-b1da5598886b747b5edaac59e58ac9c272785131.jar" />
+    </item>
+    <item
+        jar="/Users/Mike/AndroidstudioProjects/DailyOpen/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Users/Mike/AndroidstudioProjects/DailyOpen/app/build/intermediates/pre-dexed/debug/classes-a77c3360c40597818644de31ea2c25eb53f2741f.jar" />
+    </item>
+    <item
+        jar="/Users/Mike/AndroidstudioProjects/DailyOpen/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Mike/AndroidstudioProjects/DailyOpen/app/build/intermediates/pre-dexed/debug/classes-5474489c3e44c81e6055ea349792dbbea940c140.jar" />
+    </item>
+
+</items>
